@@ -1,0 +1,161 @@
+ .u-section-1 {
+  min-height: 413px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 5px auto 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 419px;
+  background-image: url("images/KlJeD1w.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 419px;
+  background-image: url("images/Screen_Shot_2022-03-19_at_8.52.59_PM.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 419px;
+  background-image: url("images/unknown.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-4 {
+  min-height: 419px;
+  background-image: url("images/Screen_Shot_2022-02-26_at_7.33.26_PM.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 339px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 346px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 346px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 346px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 346px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 1052px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 530px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 530px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 530px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 530px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 2376px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 795px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 795px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 795px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 795px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1494px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 501px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 501px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 501px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 501px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 68px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 20px auto;
+}
